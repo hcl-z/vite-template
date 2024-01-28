@@ -1,0 +1,18 @@
+{
+    "name": "koa-template",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "dev": "vite",
+        "watch": "vite preview",
+        "build": "vite build"
+    },
+    "dependencies": {
+        "koa": "^2.13.3"
+    },
+    "devDependencies": {
+        "vite": "^4.0.4",
+        "vite-plugin-node": "^3.1.0"
+    }
+}

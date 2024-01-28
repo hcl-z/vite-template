@@ -1,0 +1,124 @@
+{
+    "version": "0.0.0",
+    "template": [
+        {
+            "icon": "https:/github.com/hcl-z/quick-template/icons/lit.svg",
+            "name": "vite-lit-starter",
+            "desc": "",
+            "path": "https:/github.com/hcl-z/quick-template/template/template-lit",
+            "hash": "9ecf45d4"
+        },
+        {
+            "icon": "https:/github.com/hcl-z/quick-template/icons/lit-ts.svg",
+            "name": "vite-lit-ts-starter",
+            "desc": "",
+            "path": "https:/github.com/hcl-z/quick-template/template/template-lit-ts",
+            "hash": "b0f3de6d"
+        },
+        {
+            "icon": "https:/github.com/hcl-z/quick-template",
+            "name": "koa-template",
+            "desc": "",
+            "path": "https:/github.com/hcl-z/quick-template/template/template-node-koa",
+            "hash": "10eaf320"
+        },
+        {
+            "icon": "https:/github.com/hcl-z/quick-template/icons/preact.svg",
+            "name": "vite-preact-starter",
+            "desc": "",
+            "path": "https:/github.com/hcl-z/quick-template/template/template-preact",
+            "hash": "bc8345a0"
+        },
+        {
+            "icon": "https:/github.com/hcl-z/quick-template/icons/preact-ts.svg",
+            "name": "vite-preact-ts-starter",
+            "desc": "",
+            "path": "https:/github.com/hcl-z/quick-template/template/template-preact-ts",
+            "hash": "28f301bf"
+        },
+        {
+            "icon": "https:/github.com/hcl-z/quick-template/icons/qwik.svg",
+            "name": "vite-qwik",
+            "desc": "",
+            "path": "https:/github.com/hcl-z/quick-template/template/template-qwik",
+            "hash": "8e0b3ef8"
+        },
+        {
+            "icon": "https:/github.com/hcl-z/quick-template/icons/qwik-ts.svg",
+            "name": "vite-qwik",
+            "desc": "",
+            "path": "https:/github.com/hcl-z/quick-template/template/template-qwik-ts",
+            "hash": "097c584e"
+        },
+        {
+            "icon": "https:/github.com/hcl-z/quick-template/icons/react.svg",
+            "name": "vite-react-starter",
+            "desc": "",
+            "path": "https:/github.com/hcl-z/quick-template/template/template-react",
+            "hash": "feeec0c8"
+        },
+        {
+            "icon": "https:/github.com/hcl-z/quick-template/icons/react-ts.svg",
+            "name": "vite-react-typescript-starter",
+            "desc": "",
+            "path": "https:/github.com/hcl-z/quick-template/template/template-react-ts",
+            "hash": "4cc90031"
+        },
+        {
+            "icon": "https:/github.com/hcl-z/quick-template/icons/solid.svg",
+            "name": "vite-solid-starter",
+            "desc": "",
+            "path": "https:/github.com/hcl-z/quick-template/template/template-solid",
+            "hash": "4b3e3877"
+        },
+        {
+            "icon": "https:/github.com/hcl-z/quick-template/icons/solid-ts.svg",
+            "name": "vite-solid-typescript-starter",
+            "desc": "",
+            "path": "https:/github.com/hcl-z/quick-template/template/template-solid-ts",
+            "hash": "a4efb631"
+        },
+        {
+            "icon": "https:/github.com/hcl-z/quick-template",
+            "name": "vite-svelte-starter",
+            "desc": "",
+            "path": "https:/github.com/hcl-z/quick-template/template/template-svelte",
+            "hash": "8972b067"
+        },
+        {
+            "icon": "https:/github.com/hcl-z/quick-template",
+            "name": "vite-svelte-ts-starter",
+            "desc": "",
+            "path": "https:/github.com/hcl-z/quick-template/template/template-svelte-ts",
+            "hash": "d038abc3"
+        },
+        {
+            "icon": "https:/github.com/hcl-z/quick-template",
+            "name": "vite-starter",
+            "desc": "",
+            "path": "https:/github.com/hcl-z/quick-template/template/template-vanilla",
+            "hash": "77651587"
+        },
+        {
+            "icon": "https:/github.com/hcl-z/quick-template",
+            "name": "vite-typescript-starter",
+            "desc": "",
+            "path": "https:/github.com/hcl-z/quick-template/template/template-vanilla-ts",
+            "hash": "18c75fb3"
+        },
+        {
+            "icon": "https:/github.com/hcl-z/quick-template/icons/vue.svg",
+            "name": "vite-vue-starter",
+            "desc": "",
+            "path": "https:/github.com/hcl-z/quick-template/template/template-vue",
+            "hash": "da65a236"
+        },
+        {
+            "icon": "https:/github.com/hcl-z/quick-template/icons/vue-ts.svg",
+            "name": "vite-vue-typescript-starter",
+            "desc": "",
+            "path": "https:/github.com/hcl-z/quick-template/template/template-vue-ts",
+            "hash": "bc625154"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "vite-solid-starter",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "icon": "./icons/solid.svg",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "solid-js": "^1.8.11"
+  },
+  "devDependencies": {
+    "vite": "^5.0.11",
+    "vite-plugin-solid": "^2.8.0"
+  }
+}
